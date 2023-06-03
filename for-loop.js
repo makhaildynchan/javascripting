@@ -30,6 +30,7 @@
 //   After the for loop, use console.log() to print the total variable to the terminal.
 let total = 0
 const limit = 10
+
 for (let i=0; i<limit; i++){
   total+=i
   }

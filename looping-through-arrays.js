@@ -23,7 +23,8 @@
 
 //   After the for loop, use console.log() to print the pets array to the terminal.
 const pets = ['cat', 'dog', 'rat']
-for(i = 0; i<pets.length; i++){
+
+for(i = 0; i<pets.length; i++) {
   pets[i] = pets[i] + 's'
 }
 console.log(pets)
